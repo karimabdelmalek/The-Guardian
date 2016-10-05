@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">The Guardian</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="homeTxt">Home</string>
+    <string name="sportsTxt">Sports</string>
+    <string name="lifestyleTxt">Lifestyle</string>
+    <string name="technologyTxt">Technology</string>
+    <string name="fashionTxt">Fashion</string>
+    <string name="businessTxt">Business</string>
+    <string name="environmentTxt">Environment</string>
+    <string name="artsTxt">Arts</string>
+    <string name="commonErrorTxt">Sorry, something went wrong please try again later.</string>
+    <string name="travelTxt">Travel</string>
+    <string name="noConnectionText">Sorry, you are not connected to the internet</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>

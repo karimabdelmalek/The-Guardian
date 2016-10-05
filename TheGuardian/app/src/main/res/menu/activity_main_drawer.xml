@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/home_item"
+            android:checked="true"
+            android:title="@string/homeTxt"      />
+        <item android:id="@+id/sports_item"
+            android:title="@string/sportsTxt" />
+        <item android:id="@+id/lifestyle_item"
+            android:title="@string/lifestyleTxt" />
+        <item android:id="@+id/technology_item"
+            android:title="@string/technologyTxt" />
+        <item android:id="@+id/fashion_item"
+            android:title="@string/fashionTxt" />
+        <item android:id="@+id/business_item"
+            android:title="@string/businessTxt" />
+        <item android:id="@+id/environment_item"
+            android:title="@string/environmentTxt" />
+        <item android:id="@+id/arts_item"
+            android:title="@string/artsTxt" />
+        <item android:id="@+id/travel_item"
+            android:title="@string/travelTxt" />
+    </group>
+</menu>

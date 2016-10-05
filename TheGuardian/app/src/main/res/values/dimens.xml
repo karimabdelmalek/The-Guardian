@@ -1,0 +1,11 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="universalMargin">10dp</dimen>
+    <dimen name="smallMargin">5dp</dimen>
+    <dimen name="bigMargin">20dp</dimen>
+    <dimen name="textSize">18dp</dimen>
+    <dimen name="smallTextSize">16dp</dimen>
+    <dimen name="imgListSize">200dp</dimen>
+    <dimen name="progressBarSize">50dp</dimen>
+
+</resources>
